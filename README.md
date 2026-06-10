@@ -339,7 +339,7 @@ copies or substantial portions of the Software.
 
 ---
 
-## 🎯 Roadmap
+## Roadmap
 
 Future features being considered:
 
@@ -381,12 +381,10 @@ When reporting issues, please include:
 
 ---
 
-## 📚 Resources
+## Resources
 
 - [Chrome Extension Documentation](https://developer.chrome.com/docs/extensions/)
 - [LeetCode](https://leetcode.com/)
 - [Chrome Storage API](https://developer.chrome.com/docs/extensions/reference/storage/)
 
 ---
-
-**Happy coding! Track your progress, improve your skills, and master LeetCode problems with LeetCode Time Tracker! 🚀**
